@@ -24,7 +24,7 @@ As a software engineer, I design, develop, test, and maintain software applicati
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Other Common Github Profile Sections
+## A little more about me
 👩‍💻 I'm currently working on - small projects
 
 🧠 I'm currently learning - mongodb
