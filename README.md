@@ -25,9 +25,9 @@ As a software engineer, I design, develop, test, and maintain software applicati
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## A little more about me
-👩‍💻 I'm currently working on - small projects
+👩‍💻 I'm currently working on - medium projects
 
-🧠 I'm currently learning - mongodb
+🧠 I'm currently learning - supabase
 
 👯‍♀️ I'm looking to collaborate on - open-source projects related to web development or data science.
 
